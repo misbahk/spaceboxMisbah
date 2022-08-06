@@ -42,7 +42,7 @@ const Navbar = () => {
                         border: '1px solid gray',
                         cursor: 'pointer'
                     }}
-                    onClick={()=>history.push("/repolist")}>Saved Repo</button>
+                    onClick={()=>history.push("/repolist")}>Wachlist</button>
             </div>
             <div>
                 <button
